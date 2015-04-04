@@ -1,0 +1,17 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: "Montserrat", Helvetica, Arial,  sans-serif;
+}
+
+h1 {
+    font-size: 120px;
+    color: #000350;
+    text-align: center;
+}

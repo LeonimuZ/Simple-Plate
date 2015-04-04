@@ -1,0 +1,5 @@
+*.sass-cache*
+css/*
+img/*
+!css/README.md
+!img/README.md
